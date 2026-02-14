@@ -31,6 +31,7 @@ title: Гварамадзе Роман
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">xgboost</span>
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">tensorflow</span>
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">pytorch</span>
+  <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">transformers</span>
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">llamaindex</span>
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">fastapi</span>
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">django</span>
