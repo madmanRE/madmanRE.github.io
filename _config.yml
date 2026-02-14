@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Гварамадзе Роман
+description: SEO • ML • NLP • RAG
+
 collections:
   seo:
     output: true
