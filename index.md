@@ -22,6 +22,18 @@ title: Гварамадзе Роман
 
 ## 💻 Навыки
 
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-bottom:20px;">
+  <span style="background:#24292e; color:white; padding:8px 16px; border-radius:20px; font-size:16px; font-weight:600;">
+    🐍 Python
+  </span>
+  <span style="background:#24292e; color:white; padding:8px 16px; border-radius:20px; font-size:16px; font-weight:600;">
+    🛢️ SQL
+  </span>
+  <span style="background:#24292e; color:white; padding:8px 16px; border-radius:20px; font-size:16px; font-weight:600;">
+    📊 DAX
+  </span>
+</div>
+
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:15px;">
 
   <span style="background:#f2f2f2; padding:6px 12px; border-radius:14px; font-size:14px;">pandas</span>
@@ -39,32 +51,6 @@ title: Гварамадзе Роман
 
 </div>
 
-
-### 🐍 Python
-- Автоматизация процессов и скриптинг  
-- Парсинг и работа с API  
-- Анализ данных (Pandas, NumPy)  
-- Machine Learning и NLP  
-- Разработка RAG-систем  
-
-### 🗄 SQL
-- Написание сложных SELECT-запросов  
-- JOIN, CTE, оконные функции  
-- Оптимизация запросов  
-- Работа с большими объемами данных  
-
-
-### 📊 DAX
-- Расчетные меры и колонки  
-- Построение аналитических моделей  
-- Оптимизация вычислений  
-- Разработка отчетности в Power BI  
-
-### ⚙ Дополнительно
-- Git и командная разработка  
-- Docker (базовый уровень)  
-- Работа с BI-системами  
-- Техническое SEO и аналитика  
 
 ## 🚀 Некоторые открытые инструменты
 
