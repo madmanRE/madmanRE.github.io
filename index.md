@@ -59,6 +59,7 @@ title: Гварамадзе Роман
 - **[Flow Cast](https://roman-gvaramadze-flowcast.streamlit.app/)** – прогнозирование временных рядов (например трафика на сайты).  
 - **[Title Generator](https://roman-gvaramadze-title-generator.streamlit.app/)** – генератор title для страниц сайта.
 - **[Text Mind](https://roman-gvaramadze-textmind.streamlit.app/)** – автоматический On Page анализ.
+- **[Query Mapper](https://roman-gvaramadze-query-mapper.streamlit.app/)** – программа для кластеризации запросов.
 
 ## 📚 Материалы
 
@@ -79,6 +80,7 @@ title: Гварамадзе Роман
 
 - 14.02.2026 Добавлена статья [Дубли страниц на сайте](https://madmanre.github.io/seo/duplicate-pages-seo-problem/)
 - 15.02.2026 Добавлена статья [Проблемы с индексацией страниц в SEO](https://madmanre.github.io/seo/problems-with-page-indexing-due-to-low-quality/)
+- 15.02.2026 Добавлена ссылка на инструмент кластеризации [Query Mapper](https://roman-gvaramadze-query-mapper.streamlit.app/)
 
 ## 📫 Контакты
 
