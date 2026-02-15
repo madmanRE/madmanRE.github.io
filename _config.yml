@@ -6,6 +6,10 @@ collections:
   seo:
     output: true
     permalink: /seo/:name/
+  ml:
+    output: true
+    permalink: /ml/:name/
 
 header_pages:
   - seo.md
+  - ml.md
