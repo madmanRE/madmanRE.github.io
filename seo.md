@@ -4,6 +4,8 @@ title: Статьи по SEO (Гварамадзе Роман)
 permalink: /seo/
 ---
 
+{% include nav.html %}
+
 # SEO статьи
 
 <ul>
