@@ -6,3 +6,6 @@ collections:
   seo:
     output: true
     permalink: /seo/:name/
+
+header_pages:
+  - seo.md
