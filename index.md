@@ -81,6 +81,7 @@ title: Гварамадзе Роман
 - 14.02.2026 Добавлена статья [Дубли страниц на сайте](https://madmanre.github.io/seo/duplicate-pages-seo-problem/)
 - 15.02.2026 Добавлена статья [Проблемы с индексацией страниц в SEO](https://madmanre.github.io/seo/problems-with-page-indexing-due-to-low-quality/)
 - 15.02.2026 Добавлена ссылка на инструмент кластеризации [Query Mapper](https://roman-gvaramadze-query-mapper.streamlit.app/)
+- 15.02.2026 Добавлена статья [Кластеризация поисковых запросов](https://madmanre.github.io/ml/clustering-search-queries/)
 
 ## 📫 Контакты
 
