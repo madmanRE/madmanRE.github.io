@@ -3,8 +3,6 @@ layout: default
 title: Гварамадзе Роман
 ---
 
-{% include nav.html %}
-
 # Привет! Я Роман
 
 <p align="center">
