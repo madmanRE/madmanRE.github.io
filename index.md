@@ -11,7 +11,7 @@ title: Гварамадзе Роман
   <img src="https://workspace.ru/upload/main/d60/o11906tu57qeo1f9zqa8avb1sji071ff/5474168554896091200.jpg.png" width="200" style="border-radius:50%;" />
 </p>
 
-Добро пожаловать на мою страницу, где я делюсь проектами и идеями. 
+Добро пожаловать на мою страницу, где я можно быстро познакомиться со мной
 
 ## 🔥 Мои профессиональные увлечения
 
@@ -75,15 +75,6 @@ title: Гварамадзе Роман
 - [b2b производитель](https://www.completo.ru/cases/1000-trafika-za-6-mesyatsev-za-schet-sistemnogo-seo-prodvizheniya/)
 - [региональный агрегатор](https://www.completo.ru/cases/neravnaya-borba-s-agregatorami-seo-prodvizhenie-portala-avtouslug/)
 - [b2b производитель](https://www.completo.ru/cases/rost-kommercheskogo-trafika-na-43-seo-bez-volshebnoy-tabletki/)
-
-## 📅 Последние обновления
-
-- 16.02.2026 Добавлена статья [Рендеринг страниц с JS](https://madmanre.github.io/seo/rendering-stranicz-s-js-web-llm/)
-- 16.02.2026 Добавлена статья [Оптимизация под LLM](https://madmanre.github.io/seo/llm-geo-aeo-optimization/)
-- 15.02.2026 Добавлена статья [Кластеризация поисковых запросов](https://madmanre.github.io/ml/clustering-search-queries/)
-- 15.02.2026 Добавлена ссылка на инструмент кластеризации [Query Mapper](https://roman-gvaramadze-query-mapper.streamlit.app/)
-- 15.02.2026 Добавлена статья [Проблемы с индексацией страниц в SEO](https://madmanre.github.io/seo/problems-with-page-indexing-due-to-low-quality/)
-- 14.02.2026 Добавлена статья [Дубли страниц на сайте](https://madmanre.github.io/seo/duplicate-pages-seo-problem/)
 
 ## 📫 Контакты
 
