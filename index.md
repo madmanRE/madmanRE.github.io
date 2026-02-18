@@ -54,6 +54,7 @@ title: Гварамадзе Роман
 
 ## 🚀 Некоторые открытые инструменты
 
+- **[Article Flow](https://roman-gvaramadze-article-flow.streamlit.app/)** – автоматическое написание ТЗ на статьи и самой статьи по ТЗ.
 - **[Flow Cast](https://roman-gvaramadze-flowcast.streamlit.app/)** – прогнозирование временных рядов (например трафика на сайты).  
 - **[Title Generator](https://roman-gvaramadze-title-generator.streamlit.app/)** – генератор title для страниц сайта.
 - **[Text Mind](https://roman-gvaramadze-textmind.streamlit.app/)** – автоматический On Page анализ.
