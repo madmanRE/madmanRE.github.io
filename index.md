@@ -9,7 +9,7 @@ title: Гварамадзе Роман
   <img src="https://workspace.ru/upload/main/d60/o11906tu57qeo1f9zqa8avb1sji071ff/5474168554896091200.jpg.png" width="200" style="border-radius:50%;" />
 </p>
 
-Добро пожаловать на мою страницу, где я можно быстро познакомиться со мной
+Добро пожаловать на мою страницу, где можно быстро познакомиться со мной
 
 ## 🔥 Мои профессиональные увлечения
 
@@ -109,4 +109,4 @@ title: Гварамадзе Роман
 
 - Мой профиль на [GitHub](https://github.com/madmanRE).
 - Мой профиль на [Kaggle](https://www.kaggle.com/madmanre).
-- Мой профиль в [ТГ](https://t.me/Romon_link)
+- Мой профиль в [TenChat](https://tenchat.ru/3451643).
